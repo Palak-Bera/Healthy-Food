@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1033685869977",
+    "project_id": "healthy-food-dd21d",
+    "storage_bucket": "healthy-food-dd21d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033685869977:android:803ea4739ad933fe959f08",
+        "android_client_info": {
+          "package_name": "com.example.diet_schedule_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033685869977-3aha4mhtcg6hl98i3d30rkfl2jir0en0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diet_schedule_app",
+            "certificate_hash": "8c75c5097c9ab54fea75cb8ceebf391aabf9eb24"
+          }
+        },
+        {
+          "client_id": "1033685869977-5soutt84r7njvd9lp248lpgd22vrrji2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBia8-A5Qc39m8HtHpWRD-Lxq2L3vlw9FI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033685869977-5soutt84r7njvd9lp248lpgd22vrrji2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
