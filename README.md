@@ -1,4 +1,4 @@
-# diet_schedule_app
+# Healthy Food Application
 
 A new Flutter project.
 
